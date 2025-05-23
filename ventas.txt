@@ -1,0 +1,6 @@
+Codigo_venta,Fecha_Venta,Descripcion_Producto,Cantidad
+A001,2025-05-20,Laptop Dell,5
+A002,2025-05-20,Teclado gamer,6
+A003,2025-05-22,Mouse gamer,9
+A004,2025-05-23,Monitor 28",3
+A005,2025-05-24,DataShow,3
